@@ -1,0 +1,26 @@
+fieldset{
+    width:fit-content;
+}
+
+
+#legend-18{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: blue;
+}
+
+#legend-19{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: yellow;
+}
+
+svg{
+    transform: scale(0.7) translateY(-300px);
+}
+
+#canada{
+    height: 700px;
+}
